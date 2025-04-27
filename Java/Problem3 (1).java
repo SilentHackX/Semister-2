@@ -1,3 +1,10 @@
+/*Implement a business logic interface. Create an interface Bonus with method:
+ double calculateBonus(double salary)
+Implement two classes:
+ Manager: bonus is 20% of salary
+ Developer: bonus is 10% of salary
+Ask for employee name, type, and salary. Display calculated bonus.*/
+
 import java.util.Scanner;
 
 public class Problem3 {
