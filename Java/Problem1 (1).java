@@ -1,3 +1,7 @@
+/*Let’s consider the example of vehicles like bicycles, cars, and bikes. They have common functionalities. So, make an interface and put all these common functionalities i.e.,changeGear(), SpeedUp(), ApplyBreak() . And let Bicycle, Bike, car etc implement all
+these functionalities in their own class in their own way.
+*/
+
 import java.util.Scanner;
 
 public class Problem1 {
