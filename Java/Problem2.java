@@ -1,3 +1,7 @@
+/* Create a shape interĨace which have three abstract methods (draw,area and perimeter). First method exhibits a print statement to show a certain figure is drawn. Other two methods calculate the area and perimeter. Implement two classes (Rectangle and
+Circle) that extend the Shape interface. Your task is to design the classes based on the given scenario. Design the above-mentioned scenario using Interfaces.*/
+
+
 import java.util.Scanner;
 
 public class Problem2 {
